@@ -1,0 +1,45 @@
+Go Fish Card Game Instructions
+
+Deal 7 cards to each player
+Determine order of players
+The current player asks another player for a card rank that they have a copy of in their hand
+If the questioned player has one or more of a card belonging to that rank: 
+	they must hand over all of the cards with that rank to the player who asked
+If the current player recieves any number of copies of the rank of cards from the person he requested from: 
+	the current player may take another turn immediately
+The current player continues to take turns until the questioned player does not have any copies of a rank.
+If the questioned player does not have any copies of a card belonging to that rank:
+	they must say "Go fish!"
+If the current players asks for a rank and the questioned player says "Go fish!":
+	the current player must take a card from the pool in the middle without allowing anyone to see the new card
+If the current player has all 4 suits of a card:
+	they must make a book
+Once the current player takes a card from the middle, it is the next person's turn
+The next person becomes the current player
+The current player asks another player for a card rank that they have a copy of in their hand
+If the questioned player has one or more of a card belonging to that rank: 
+	they must hand over all of the cards with that rank to the player who asked
+If the current player recieves any number of copies of the rank of cards from the person he requested from: 
+	the current player may take another turn immediately
+The current player continues to take turns until the questioned player does not have any copies of a rank.
+If the questioned player does not have any copies of a card belonging to that rank:
+	they must say "Go fish!"
+If the current players asks for a rank and the questioned player says "Go fish!":
+	the current player must take a card from the pool in the middle without allowing anyone to see the new card
+If the current player has all 4 suits of a card:
+	they must make a book
+Once the current player takes a card from the middle, it is the next person's turn
+The next person becomes the current playerThe current player asks another player for a card rank that they have a copy of in their hand
+If the questioned player has one or more of a card belonging to that rank: 
+	they must hand over all of the cards with that rank to the player who asked
+If the current player recieves any number of copies of the rank of cards from the person he requested from: 
+	the current player may take another turn immediately
+The current player continues to take turns until the questioned player does not have any copies of a rank.
+If the questioned player does not have any copies of a card belonging to that rank:
+	they must say "Go fish!"
+If the current players asks for a rank and the questioned player says "Go fish!":
+	the current player must take a card from the pool in the middle without allowing anyone to see the new card
+If the current player has all 4 suits of a card:
+	they must make a book
+While a win condition has not been met:
+	Continue playing the game until someone wins

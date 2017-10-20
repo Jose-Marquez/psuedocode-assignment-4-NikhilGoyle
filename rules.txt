@@ -1,0 +1,10 @@
+Go Fish Rules
+
+There should be no more than 7 players
+You need a 52 card deck
+Each player starts the game with 7 cards
+The remaining cards are placed in the center as a pool to draw from
+At any point during the game, if a player has all 4 suits of a rank, called a book, then they must remove those cards from their hand and place them face-up in front of them
+The game continues until either any players runs out of cards in their hand or the middle pile does not have any cards remaining
+The winner is the player that has the highest number of complete books
+If two or more players have an equal number of complete books, then they tie
