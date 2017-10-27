@@ -43,3 +43,5 @@ If the current player has all 4 suits of a card:
 	they must make a book
 While a win condition has not been met:
 	Continue playing the game until someone wins
+If all 13 books have been won:
+	the game is over and the person with the most books is the winner
